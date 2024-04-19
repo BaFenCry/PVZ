@@ -1,0 +1,49 @@
+﻿  main.cpp
+D:\C++Project\PVZ\main.cpp(106,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Project\PVZ\main.cpp(170,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(171,74): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(171,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(193,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(201,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C++Project\PVZ\main.cpp(215,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(215,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(312,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(312,31): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(326,20): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(328,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(354,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(384,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(395,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(432,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(434,16): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(435,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(453,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(453,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(454,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(454,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(456,23): warning C4305: “=”: 从“double”到“float”截断
+D:\C++Project\PVZ\main.cpp(637,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(806,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(806,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(820,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(820,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(832,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\main.cpp(832,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  tools.cpp
+D:\C++Project\PVZ\tools.cpp(90,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  vector2.cpp
+D:\C++Project\PVZ\vector2.cpp(7,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(7,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(12,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(12,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(17,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(17,27): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(22,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(22,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(26,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(26,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(46,39): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(51,37): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++Project\PVZ\vector2.cpp(51,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  PVZ.vcxproj -> D:\C++Project\PVZ\x64\Debug\PVZ.exe
