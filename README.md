@@ -2,5 +2,5 @@
 
 # 效果展示
 
-![Uploading PVZ演示.gif…]()
+
 
